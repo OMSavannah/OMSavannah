@@ -48,7 +48,7 @@ obsidian_model/
 Quick Start
 	1.	Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/obsidian-model.git
+git clone https://github.com/OMsavannah/obsidian-model.git
 cd obsidian-model
 
 	2.	Install dependencies (if any; will update later if external libraries are needed like numpy, pandas, scipy, seaborn, matplotlib).
