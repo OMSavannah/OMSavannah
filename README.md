@@ -1,7 +1,3 @@
-Awesome — here’s your polished starter README.md you can immediately add:
-
-⸻
-
 Obsidian Model Core Framework
 
 Continuity is the prime directive.
